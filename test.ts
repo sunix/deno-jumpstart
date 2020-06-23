@@ -1,5 +1,5 @@
-let name: string;
+let myname: string;
 
-name = 'mario';
+myname = 'mario';
 
-console.log(name);
+console.log(myname);
